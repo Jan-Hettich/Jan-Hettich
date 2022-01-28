@@ -1,3 +1,5 @@
+## Currently working on several interesting projects ...
+
 <!--
 **Jan-Hettich/Jan-Hettich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
